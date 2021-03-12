@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "660697536201",
+    "firebase_url": "https://online-stationery-store-21c20.firebaseio.com",
+    "project_id": "online-stationery-store-21c20",
+    "storage_bucket": "online-stationery-store-21c20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660697536201:android:a74b0cdee8bb8e65519f18",
+        "android_client_info": {
+          "package_name": "com.example.onlinestationerystore1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660697536201-cklq4o8198kgjvqvdi9894ibmrv5ng9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdPe3PESB2nO3F9dUfRrYmgo5ZFu2zl9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660697536201-cklq4o8198kgjvqvdi9894ibmrv5ng9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
